@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "fname": "Abdallah",
+        "lname": "Adel",
+        "age": "22",
+        "city": "Tanta"
+    },
+    {
+        "id": "2",
+        "fname": "Lionel",
+        "lname": "Messi",
+        "age": "36",
+        "city": "Rosario"
+    },
+    {
+        "id": "3",
+        "fname": "mohammed",
+        "lname": "Aboutrika",
+        "age": "46",
+        "city": "Nahia"
+    }
+]
